@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0035-search-insert-position) |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
