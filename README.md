@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/0035-search-insert-position) |
 | [2460-apply-operations-to-an-array](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/2460-apply-operations-to-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/varanasirithwik6/Leet_Code_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
